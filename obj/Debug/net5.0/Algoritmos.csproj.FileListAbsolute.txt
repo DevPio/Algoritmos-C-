@@ -1,0 +1,16 @@
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\bin\Debug\net5.0\Algoritmos.exe
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\bin\Debug\net5.0\Algoritmos.deps.json
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\bin\Debug\net5.0\Algoritmos.runtimeconfig.json
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\bin\Debug\net5.0\Algoritmos.runtimeconfig.dev.json
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\bin\Debug\net5.0\Algoritmos.dll
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\bin\Debug\net5.0\ref\Algoritmos.dll
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\bin\Debug\net5.0\Algoritmos.pdb
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.csproj.AssemblyReference.cache
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.AssemblyInfoInputs.cache
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.AssemblyInfo.cs
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.dll
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\ref\Algoritmos.dll
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.pdb
+C:\Users\lucca\OneDrive\Área de Trabalho\Algoritmos\obj\Debug\net5.0\Algoritmos.genruntimeconfig.cache
