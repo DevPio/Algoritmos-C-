@@ -148,6 +148,12 @@ namespace Algoritmos
                 
 
             return -1;
+
+            //melhor caso: quando o item procurado está na primeira posição executado : 1
+
+            //pior caso: quando o elemento buscado esta na última posição executado N = length do vetor O(n)
+
+            //caso médio: quando o elemento esta em N/2
         }
 
 
@@ -168,6 +174,9 @@ namespace Algoritmos
             //     }
             // }
 
+            //Melhor caso é executado N * N
+            //Pior caso é executado N * N -> O(N * N)
+            //Caso médio N * N
              for (int i = 0; i < array.Length; i++)
             {
                 var menor = i;
